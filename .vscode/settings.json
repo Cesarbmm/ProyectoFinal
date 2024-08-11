@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "prjScannerBarcode/lib/flatlaf-3.jar",
+        "prjScannerBarcode/lib/flatlaf-intellij-themes-3.0.jar",
+        "prjScannerBarcode/lib/sqlite-jdbc-3.40.0.0.jar"
+    ]
+}
